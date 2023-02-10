@@ -4,4 +4,4 @@ I'm hoping to go into the computer science field in the future, specifically in 
 will be learning more in the future. 
 
 Currently, I work as a Wordpress Developer for the Qualcomm Institute at UC San Diego.
-You can reach me via email at alexavndrarh@gmail.com or my instagram [@alexavndra](https://instagram.com/alexavndra).
+You can reach me via email at alexavndrarh@gmail.com or arh003@ucsd.edu.
