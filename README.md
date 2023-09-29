@@ -2,8 +2,6 @@ Hi! I'm Alexandra Hernandez. Thanks for stopping by my GitHub!
 ## About Me
 I'm a current second year at UC San Diego, majoring in Cognitive Sciences with a specialization in Machine Learning and Neural Computation, and a minor in Computer Science. As a Machine Learning specialist, I'm aiming to work in software engineering, development, and analysis–specifically in backend programming (i.e. optimization algorithms) or data analytics. 
 
-Besides this, I do frontend design and programming on the side (sort of my hobby)! I love tweaking with website and UI/UX design of digital products, and exploring how to optimize such products to work best for everyone.
-
 ## Experience
 Currently, I work as a Data Management Assistant for the Scripps Institute of Oceanography under their CCE-LTER division; under the SIO, I process raw data from their researchers using Excel and CSV files, and run existing programs to make the data readable. I'm also responsible for documenting datasets with appropriate metadata and uploading data to existing databases and online repositories, as well as maintaining publicly submitted data is available on our several project websites.
 
