@@ -12,9 +12,11 @@ I've also worked as a Data Analyst for UC San Diego's WalkMe; there I helped imp
 ## Languages and Projects
 I work primarily in Python, Java, Bash, VIM, Jupyter, SQL, jQuery, HTML, CSS, and JavaScript.
 
-With projects, my most recent one is "Digital Art Keywords," a research data science project aimed at studying the relationship between caption keywords and content popularity (on DeviantArt) using several data visualizations and machine learning models like Lassos and Decision Trees. I also have my portfolio, which is *continously* improved on.
+I'm currently working on [Battery Cycle Visualizer](https://battery-cycle-visualizer.streamlit.app), a web app dedicated to generating data visualizations for battery cycles observed via Neware and Arbin software. Hosted using Streamlit, my app runs on Python (with Pandas and Matplotlib) and used primarily by the Chen lab at the University of California, San Diego. 
 
-My past projects include Astrologify, a Python and Spotify API program that utilized ML algorithms to create playlists based on top songs and astrological signs, and ReminderApp, a Java program that used real date and time data to help remind the users of certain tasks that needed to be completed.
+I also host my website [alexavndra.github.io](https://alexavndra.github.io) with GitHub pages, and is structured with HTML, CSS, and Javascript. This serves as my online portfolio for potential employers and fellow academics to view.
+
+My past projects include "Digital Art Keywords," a research data science project aimed at studying the relationship between caption keywords and content popularity (on DeviantArt) using several data visualizations and machine learning models like Lassos and Decision Trees, Astrologify, a Python and Spotify API program that utilized ML algorithms to create playlists based on top songs and astrological signs, and ReminderApp, a Java program that used real date and time data to help remind the users of certain tasks that needed to be completed.
 
 ## Contact
 To contact me, you can reach me at [alexavndrarh@gmail.com](mailto:alexavndrarh@gmail.com) or [arh003@ucsd.edu](mailto:arh003@ucsd.edu). You can also check out my [LinkedIn](https://linkedin.com/in/alexavndrarh)!
