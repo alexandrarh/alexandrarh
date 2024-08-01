@@ -1,6 +1,6 @@
 Hi! I'm Alexandra Hernandez. Thanks for stopping by!
 ## About Me
-I'm a rising fourth year Machine Learning/Neural Computation major (with a Computer Science minor) at the University of California, San Diego. I specialize in in data visualization/analyzation, data cleanup, scientific research, API implementations, applications testing, and machine learning algorithm optimization. I'm aiming to work in software engineering/development, data analysis, or machine learning engineering.
+I'm a rising fourth year Machine Learning/Neural Computation major (with a Computer Science minor) at the University of California, San Diego. I specialize in in data visualization/analyzation, data cleanup, scientific research, API implementations, applications testing, and machine learning algorithm optimization. I'm aiming to work in data analysis and research, machine learning engineering, and/or software development.
 
 ## Experience
 Currently, I work as a Data Management Assistant for the Scripps Institution of Oceanography under their CCE-LTER division; under the SIO, I process raw data from their researchers using Excel and CSV files, and run existing programs to make the data readable. I'm also responsible for documenting datasets with appropriate metadata and uploading data to existing databases and online repositories, as well as maintaining publicly submitted data is available on our several project websites.
