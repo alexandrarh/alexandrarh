@@ -9,4 +9,4 @@ Hi, I'm Alexandra Hernandez (she/her), and I'm a fourth year at University of Ca
 # Contact me
 **Email**: [alexavndrarh@gmail.com](mailto:alexavndrarh@gmail.com) <br/> <br/>
 **LinkedIn**: [linkedin.com/in/alexandrarh](https://linkedin.com/in/alexandrarh) <br/> <br/>
-**Website**: [alexandrarh.netlify.app](https://alexandrarh.netlify.app)
+**Website**: [alexandrarh.netlify.app](https://alexandrarh.com)
