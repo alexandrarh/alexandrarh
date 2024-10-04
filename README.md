@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm Alexandra Hernandez (she/her), and I'm a fourth year at University of California, San Diego studying Machine Learning/Neural Computation and Computer Sciences. I specialize in data analysis and research, machine learning algorithms, API implementation, and applications testing. Currently, I work as a Machine Learning Engineer at InSite Health.
+Hi, I'm Alexandra Hernandez (she/her), and I'm a fourth year at University of California, San Diego studying Machine Learning/Neural Computation and Computer Sciences. I specialize in data analysis and research, machine learning algorithms (primarily in text and audio classification/generation), API implementation, and applications testing. Currently, I work as a Machine Learning Engineer at InSite Health.
 
 # Technical knowledge
 **Languages**: Python, Java, C, Assembly, SQL, JavaScript, jQuery, Bash, MATLAB, JSON <br/> <br/>
