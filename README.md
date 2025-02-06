@@ -4,7 +4,7 @@ Hi, I'm Alexandra Hernandez (*she/her*), and I'm a Data Analyst at InSite Health
 # Technical knowledge
 **Languages**: Python, Java, C/C++, Assembly, SQL, JavaScript, jQuery, Bash, MATLAB, JSON, R <br/> <br/>
 **Software**: Visual Studio Code, Azure, Jupyter Notebook, Docker, JIRA, SequelPro, SQLiteStudio <br/> <br/>
-**Other**: Working with SFTP/SCP on remote databases, virtual environment creation/implementations, debugging, supervised classification models, API implementation, web app programming, data visualizations and analysis, data cleanup, working with TensorFlow and PyTorch, SSH tunneling
+**Other**: Working with SFTP/SCP on remote databases, supervised classification models, API implementation, web app programming, data visualizations and analysis, data cleanup, working with TensorFlow and PyTorch, SSH tunneling, Django frameworks
 
 # Contact me
 **Email**: [alexavndrarh@gmail.com](mailto:alexavndrarh@gmail.com) <br/> <br/>
